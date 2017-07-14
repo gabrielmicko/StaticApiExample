@@ -1,0 +1,16 @@
+{
+  "name": "apiexample",
+  "version": "1.0.0",
+  "description": "Simple old style api example.",
+  "main": "index.js",
+  "repository": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Gabriel Micko",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "path": "^0.12.7"
+  }
+}
